@@ -1,0 +1,16 @@
+PUT і  POST запити зараз повертають всі данні для character 
+Наприклад:
+POST http://localhost:3001/character
+POST data:
+{
+   "name": "User151",
+   "age": 90
+}
+
+Response:
+HTTP/1.1 200 OK
+{"name":"User151","age":90}
+
+Замість цього запит POST може повертати пусту відповідь с кодо 201 Created,  а PUT з кодом 204 No Content.
+Там чином зменшується кількість об'єму трафіку
+
