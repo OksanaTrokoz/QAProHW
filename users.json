@@ -1,0 +1,5 @@
+{"_id":{"$oid":"67857a1fb2e16e71a9e9496a"},"email":"user1@example.com","password":"password1","createdAt":{"$date":"2025-01-13T20:39:59.161Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.161Z"},"role":"user"}
+{"_id":{"$oid":"67857a1fb2e16e71a9e9496b"},"email":"user2@example.com","password":"password2","createdAt":{"$date":"2025-01-13T20:39:59.161Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.161Z"},"role":"admin"}
+{"_id":{"$oid":"67857a1fb2e16e71a9e9496c"},"email":"user3@example.com","password":"password3","createdAt":{"$date":"2025-01-13T20:39:59.161Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.161Z"},"role":"user"}
+{"_id":{"$oid":"67857a1fb2e16e71a9e9496d"},"email":"user4@example.com","password":"password4","createdAt":{"$date":"2025-01-13T20:39:59.161Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.161Z"},"role":"user"}
+{"_id":{"$oid":"67857a1fb2e16e71a9e9496e"},"email":"user5@example.com","password":"password5","createdAt":{"$date":"2025-01-13T20:39:59.161Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.161Z"},"role":"user"}

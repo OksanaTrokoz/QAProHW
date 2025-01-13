@@ -1,0 +1,5 @@
+{"_id":{"$oid":"67857a1fb2e16e71a9e94974"},"title":"Toyota","logoFilename":"toyota.png","createdAt":{"$date":"2025-01-13T20:39:59.974Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.974Z"}}
+{"_id":{"$oid":"67857a1fb2e16e71a9e94975"},"title":"Honda","logoFilename":"honda.png","createdAt":{"$date":"2025-01-13T20:39:59.974Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.974Z"}}
+{"_id":{"$oid":"67857a1fb2e16e71a9e94976"},"title":"Ford","logoFilename":"ford.png","createdAt":{"$date":"2025-01-13T20:39:59.974Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.974Z"}}
+{"_id":{"$oid":"67857a1fb2e16e71a9e94977"},"title":"BMW","logoFilename":"bmw.png","createdAt":{"$date":"2025-01-13T20:39:59.974Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.974Z"}}
+{"_id":{"$oid":"67857a1fb2e16e71a9e94978"},"title":"Mercedes","logoFilename":"mercedes.png","createdAt":{"$date":"2025-01-13T20:39:59.974Z"},"updatedAt":{"$date":"2025-01-13T20:39:59.974Z"}}

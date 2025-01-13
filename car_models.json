@@ -1,0 +1,5 @@
+{"_id":{"$oid":"67857a20b2e16e71a9e94979"},"carBrandId":1,"title":"Camry","createdAt":{"$date":"2025-01-13T20:40:00.177Z"},"updatedAt":{"$date":"2025-01-13T20:40:00.177Z"}}
+{"_id":{"$oid":"67857a20b2e16e71a9e9497a"},"carBrandId":1,"title":"Corolla","createdAt":{"$date":"2025-01-13T20:40:00.177Z"},"updatedAt":{"$date":"2025-01-13T20:40:00.177Z"}}
+{"_id":{"$oid":"67857a20b2e16e71a9e9497b"},"carBrandId":2,"title":"Civic","createdAt":{"$date":"2025-01-13T20:40:00.177Z"},"updatedAt":{"$date":"2025-01-13T20:40:00.177Z"}}
+{"_id":{"$oid":"67857a20b2e16e71a9e9497c"},"carBrandId":3,"title":"Mustang","createdAt":{"$date":"2025-01-13T20:40:00.177Z"},"updatedAt":{"$date":"2025-01-13T20:40:00.177Z"}}
+{"_id":{"$oid":"67857a20b2e16e71a9e9497d"},"carBrandId":4,"title":"X5","createdAt":{"$date":"2025-01-13T20:40:00.177Z"},"updatedAt":{"$date":"2025-01-13T20:40:00.177Z"}}
